@@ -18,11 +18,6 @@ import java.io.IOException;
 
 public class December2007
 {
-//    static {
-//        PDFOne.activate("T95VZE:W8HBPVA:74VQ8QV:LO4V8",
-//                "9B1HRZAP:X5853ERNE:5EREMEGRQ:TX1R10");
-//    }
-
     public static void main(String[] args) throws PdfException, IOException
     {
         create_sample_doc1();
