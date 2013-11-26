@@ -117,7 +117,7 @@ public class December2007
                 18,
                 PdfEncodings.WINANSI);
         PdfFont fontTahomaNormal = PdfFont.create(
-                "tahoma.ttf", // pathname of a font file
+                "Times New Roman", // pathname of a font file
                 PdfFont.STROKE_AND_FILL,
                 48,
                 PdfEncodings.WINANSI);
